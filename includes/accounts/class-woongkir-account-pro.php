@@ -58,7 +58,7 @@ class Woongkir_Account_Pro extends Woongkir_Account {
 	 *
 	 * @var string
 	 */
-	public $api_url = 'https://dev.websweet.xyz/ongkir/';
+	public $api_url = 'https://dev.websweet.xyz/ongkir/index.php';
 
 	/**
 	 * Account features
