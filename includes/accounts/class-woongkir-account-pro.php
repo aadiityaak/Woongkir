@@ -58,7 +58,7 @@ class Woongkir_Account_Pro extends Woongkir_Account {
 	 *
 	 * @var string
 	 */
-	public $api_url = 'http://pro.rajaongkir.com/api';
+	public $api_url = 'https://dev.websweet.xyz/ongkir/';
 
 	/**
 	 * Account features
